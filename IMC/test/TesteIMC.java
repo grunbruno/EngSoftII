@@ -12,7 +12,7 @@ import projeto.es2.imc.IMC;
 
 /**
  *
- * @author DANIEL
+ * @author Bruno Grun e Guilherme de Souza
  */
 public class TesteIMC {
     
