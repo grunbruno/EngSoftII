@@ -7,7 +7,7 @@ package projeto.es2.imc;
 
 /**
  *
- * @author DANIEL
+ * @author Bruno Grun e Guilherme de Souza
  */
 public class IMC {
 
